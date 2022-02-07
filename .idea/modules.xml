@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BuilderPatternDemo/BuilderPatternDemo.iml" filepath="$PROJECT_DIR$/BuilderPatternDemo/BuilderPatternDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FactoryPatternDemo/FactoryPatternDemo.iml" filepath="$PROJECT_DIR$/FactoryPatternDemo/FactoryPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositPatternDemo/CompositPatternDemo.iml" filepath="$PROJECT_DIR$/CompositPatternDemo/CompositPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPatternDemo/DecoratorPatternDemo.iml" filepath="$PROJECT_DIR$/DecoratorPatternDemo/DecoratorPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilterPatternDemo/FilterPatternDemo.iml" filepath="$PROJECT_DIR$/FilterPatternDemo/FilterPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterPatternDemo/adapterPatternDemo.iml" filepath="$PROJECT_DIR$/adapterPatternDemo/adapterPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bridgePatternDemo/bridgePatternDemo.iml" filepath="$PROJECT_DIR$/bridgePatternDemo/bridgePatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builderPatternDemo/builderPatternDemo.iml" filepath="$PROJECT_DIR$/builderPatternDemo/builderPatternDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factoryPatternDemo/factoryPatternDemo.iml" filepath="$PROJECT_DIR$/factoryPatternDemo/factoryPatternDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/prototypePatternDemo/prototypePatternDemo.iml" filepath="$PROJECT_DIR$/prototypePatternDemo/prototypePatternDemo.iml" />
     </modules>
   </component>
